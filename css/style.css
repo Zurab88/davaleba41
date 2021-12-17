@@ -177,23 +177,22 @@ li {
 .address {
 	color: black;
 	font-family: "BPG Ingiri Arial", sans-serif;
-	text-align: left;
 	font-size: 16px;
 	line-height: 24px;
 	padding-left: 97px;
 	padding-top: 3px;
-	padding-right: 55px;
-	padding-bottom: 422px;
-	display: inline-block;
+	width: 320px;
+	position: absolute;
 }
 .mapi {
 	display: inline-block;
 	height: 466px;
 	width: 874px;
-/*	padding-left: 402px;
+	margin-left: 420px;
 	padding-right: 90px;
 	padding-bottom: 55px;
-	padding-top: 49px;*/
+	padding-top: 49px;
+	position: absolute;
 }
 /*.head {
 	margin-top: 87px;
